@@ -1,0 +1,66 @@
+
+.attribution {
+    margin-top: 3rem;
+    font-size: 11px;
+    text-align: center;
+    color: var(--color-white-transparent60);
+}
+
+
+body {
+  background-color: hsl(233, 47%, 7%);
+
+}
+
+.container {
+
+  margin: 200px auto;
+
+}
+
+#principal{
+  background-color: hsl(244, 38%, 16%);
+  border-radius: 10px;
+  width: 112%;
+}
+
+.col_text {
+  padding: 50px;
+  padding-top : 5rem;
+  padding-left: 4rem;
+}
+
+.row_stat {
+  margin: auto ;
+ margin-top: 7rem;
+}
+
+.img_col {
+background-image: url(images/image-header-desktop.jpg);
+background-color: hsl(277, 64%, 61%);
+background-position: center;
+background-size: cover;
+background-repeat: no-repeat;
+background-blend-mode: multiply;
+border-radius: 0 8px 8px 0;
+ width: 100%;
+
+}
+
+.color1 {
+  color: hsl(0, 0%, 100%);
+}
+.color2 {
+  color: hsla(0, 0%, 100%, 0.75);
+  font-size: 1.5rem;
+  margin-top: 2rem;
+  padding-right: 0.7rem;
+
+}
+.color3 {
+  color: hsla(0, 0%, 100%, 0.6);
+}
+
+.color4 {
+  color: hsl(277, 64%, 61%);
+}
